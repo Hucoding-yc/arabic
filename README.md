@@ -5,13 +5,13 @@
 Install Manualy : 
 
 ```bash
-composer require alterbyte/language-arabic
+composer require hucoding/hucoding-arabic
 ```
 
 ## Updating
 
 ```bash
-composer update alterbyte/language-arabic
+composer update hucoding/hucoding-arabic
 php flarum cache:clear
 ```
 
